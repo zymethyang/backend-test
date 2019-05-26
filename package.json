@@ -1,0 +1,17 @@
+{
+  "name": "backendcdcitest",
+  "version": "1.0.0",
+  "description": "This repo just for test cd/ci",
+  "repository": {
+    "url": "https://github.com/zymethyang/backend-test"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Tri Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
