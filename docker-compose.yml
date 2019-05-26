@@ -2,6 +2,6 @@ version: '3'
 
 services:
   web:
-    image: backend_app
+    image: zymethyang/backed-test
     ports:
      - "3000:3000"
