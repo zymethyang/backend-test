@@ -4,6 +4,6 @@ services:
   web:
     build: https://github.com/zymethyang/backend-test.git
     ports:
-     - "3000:3000"
+     - "80:80"
     volumes:
      - .:/src
